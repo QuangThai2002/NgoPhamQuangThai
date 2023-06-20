@@ -1,0 +1,1213 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NgoPhamQuangThai.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NgoPhamQuangThai.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\css\\responsive.css.map",
+      "PackagePath": "staticwebassets\\css\\responsive.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\css\\ui.css",
+      "PackagePath": "staticwebassets\\css\\ui.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\css\\ui.css.map",
+      "PackagePath": "staticwebassets\\css\\ui.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\roboto\\Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\fonts\\roboto\\font.css",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\font.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\avatars\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\avatars\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\avatars\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\banners\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\ad-sm.png",
+      "PackagePath": "staticwebassets\\images\\banners\\ad-sm.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\ad.png",
+      "PackagePath": "staticwebassets\\images\\banners\\ad.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner5.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner6.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner7.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner8.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\banner9.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\banners\\slide3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\AU@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\AU@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\CN.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\CN.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\CN@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\CN@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\DE@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\DE@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\GB@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\GB@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\IN.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\IN.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\IN@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\IN@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\RU.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\RU.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\RU@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\RU@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\TR.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\TR.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\TR@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\TR@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\US@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\US@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\UZ.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\UZ.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\flags\\UZ@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\UZ@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\pay-american-ex.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-american-ex.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\pay-bank.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-bank.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\pay-mastercard.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\pay-visa-el.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-visa-el.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\icons\\pay-visa.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-visa.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\items\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\15-1.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\15-2.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\items\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\misc\\appstore.png",
+      "PackagePath": "staticwebassets\\images\\misc\\appstore.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\misc\\payments.png",
+      "PackagePath": "staticwebassets\\images\\misc\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\misc\\playmarket.png",
+      "PackagePath": "staticwebassets\\images\\misc\\playmarket.png"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\posts\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\posts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\posts\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\posts\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\posts\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\images\\posts\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\js\\jquery-2.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\.DS_Store",
+      "PackagePath": "staticwebassets\\sass\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\_variables-custom.scss",
+      "PackagePath": "staticwebassets\\sass\\_variables-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_alert.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_badge.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_button-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_card.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_close.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_code.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_functions.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_images.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_input-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_media.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_modal.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_nav.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_popover.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_print.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_progress.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_reboot.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_root.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_spinners.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_transitions.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_type.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap-assets\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\components\\_cards-item.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_cards-item.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\components\\_elements.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\components\\_items.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_items.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\components\\_menu.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\components\\_plugin-styles.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_plugin-styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\helpers\\.DS_Store",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\helpers\\_bg.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\_bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\helpers\\_helper-classes.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\_helper-classes.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\helpers\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\helpers\\_typography.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\pages\\_page-account.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-account.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\pages\\_page-base.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-base.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\pages\\_page-detail.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-detail.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\pages\\_page-home.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-home.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\pages\\_page-listing.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-listing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\pages\\_page-order.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-order.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui-assets\\sections\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\sections\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ngoph\\source\\repos\\NgoPhamQuangThai\\NgoPhamQuangThai\\wwwroot\\sass\\ui.scss",
+      "PackagePath": "staticwebassets\\sass\\ui.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NgoPhamQuangThai.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.NgoPhamQuangThai.props",
+      "PackagePath": "build\\NgoPhamQuangThai.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NgoPhamQuangThai.props",
+      "PackagePath": "buildMultiTargeting\\NgoPhamQuangThai.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.NgoPhamQuangThai.props",
+      "PackagePath": "buildTransitive\\NgoPhamQuangThai.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
